@@ -2,7 +2,6 @@ ZSH_THEME="robbyrussell"
 
 plugins=(
   git
-  zsh-autosuggestions
 )
 
 unsetopt inc_append_history
