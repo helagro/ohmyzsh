@@ -1,6 +1,9 @@
 ZSH_THEME="robbyrussell"
 
-plugins=(git)
+plugins=(
+  git
+  zsh-autosuggestions
+)
 
 unsetopt inc_append_history
 unsetopt share_history
